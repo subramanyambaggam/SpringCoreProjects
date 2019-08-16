@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: bbaggam
+Build-Jdk: 10.0.1
+Implementation-Title: Spring_Core_Collection_Injection
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.example
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/Spring_Core_Collection_Injection
+Created-By: Maven Integration for Eclipse
+
