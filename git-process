@@ -1,0 +1,20 @@
+1.	git config --global user.name "subramanyambaggam"
+2.	git config --global user.email "baggambalu999@gmail.com"
+3.	git init
+4.	git remote add origin https://github.com/subramanyambaggam/SpringCoreProjects.git
+5.	git add test.txt
+6.	git status
+7.	git add *
+8.	git status
+9.	git commit -m "fully commited"
+10.	git push -u origin master
+	Username for 'https://github.com': baggambalu999@gmail.com
+	Password for 'https://baggambalu999@gmail.com@github.com': 
+11.	git status
+12.	git push -u origin master
+	Username for 'https://github.com': baggambalu999@gmail.com
+	Password for 'https://baggambalu999@gmail.com@github.com': 
+	Branch master set up to track remote branch master from origin.
+	Everything up-to-date
+
+
