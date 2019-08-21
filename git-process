@@ -17,4 +17,12 @@
 	Branch master set up to track remote branch master from origin.
 	Everything up-to-date
 
+modification:
+
+git add *
+git commit -m "modified spring file"
+git push origin master
+Username for 'https://github.com': baggambalu999@gmail.com
+Password for 'https://baggambalu999@gmail.com@github.com': 
+check in github.
 
